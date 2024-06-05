@@ -6,11 +6,11 @@ It takes two input fields: Email and Password.
 
 ## Table of Contents
 
-- [Technologies Used](#-technologies-used)
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Installation](#-installation)
-- [Contact](#-contact)
+- [Technologies Used](-technologies-used)
+- [Features](-features)
+- [Screenshots](-screenshots)
+- [Installation](-installation)
+- [Contact](-contact)
 
 ## 🚀 Technologies Used
 
@@ -33,7 +33,23 @@ It takes two input fields: Email and Password.
 
 ## 🛠️ Installation
 
-You can try this project for yourself by cloning the repository into your Android Studio or Visual Studio Code.
+You can try this project for yourself by cloning the repository into your Android Studio or Visual Studio Code or you can follow the steps to have a taste at how the app works
+1. Clone the repository :
+```bash
+   git clone https://github.com/Challa-Venkata-Anirudh/login_page_flutter.git
+```
+2. Navigate to the directory where the project is located :
+```bash
+   cd login_page_flutter
+```
+3. Install the required dependencies :
+```bash
+   flutter pub get
+```
+4. Run the application :
+```bash
+   flutter run
+```
 
 ## 📬 Contact
 For any questions, feel free to reach out:
