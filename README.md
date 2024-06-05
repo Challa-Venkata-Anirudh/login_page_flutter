@@ -35,3 +35,9 @@ It takes two input fields: Email and Password.
 
 You can try this project for yourself by cloning the repository into your Android Studio or Visual Studio Code.
 
+## 📬 Contact
+For any questions, feel free to reach out:
+- **Email:** anirudhchalla2004@gmail.com
+- **Github:** Challa-Venkata-Anirudh
+
+
