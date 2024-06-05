@@ -56,4 +56,8 @@ For any questions, feel free to reach out:
 - **Email:** anirudhchalla2004@gmail.com
 - **Github:** Challa-Venkata-Anirudh
 
+## 🗒️NOTE
+This project is purely a frontend development and does not include any backend for the login page.This was made to understand widgets,their usage and to understand the layout of widgets in flutter
+
+
 
