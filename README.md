@@ -1,6 +1,16 @@
 # ✨ Login Page ✨
 
-This is my first project that I have developed using Flutter. This is the UI design of a login page. It takes two input fields: Email and Password.
+This is my first project that I have developed using Flutter.\
+This is the UI design of a login page.\
+It takes two input fields: Email and Password.
+
+## Table of Contents
+
+- [Technologies Used](#-technologies-used)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
+- [Contact](#-contact)
 
 ## 🚀 Technologies Used
 
@@ -15,16 +25,13 @@ This is my first project that I have developed using Flutter. This is the UI des
 
 ## 📸 Screenshots
 
-![Screenshot 2024-06-05 111518](https://github.com/Challa-Venkata-Anirudh/login_page_flutter/assets/171713063/e2fc9493-2dc3-44e5-9ddc-ec09b5ede9bd)
+<p align="center">
+  <img src="https://github.com/Challa-Venkata-Anirudh/login_page_flutter/assets/171713063/132d7d48-590c-48ee-bd1e-85aa5ae85dd9" alt="Screenshot 1" width=200>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Challa-Venkata-Anirudh/login_page_flutter/assets/171713063/943fef2c-2c13-4205-9251-cbd6c757b082" alt="Screenshot 2" width=800 height=400>
+</p>
 
 ## 🛠️ Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/login-page.git
-
-
-
-
- 
+You can try this project for yourself by cloning the repository into your Android Studio or Visual Studio Code.
 
