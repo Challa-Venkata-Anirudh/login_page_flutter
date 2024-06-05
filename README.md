@@ -57,7 +57,7 @@ For any questions, feel free to reach out:
 - **Github:** Challa-Venkata-Anirudh
 
 ## 🗒️NOTE
-This project is purely a frontend development and does not include any backend for the login page.This was made to understand widgets,their usage and to understand the layout of widgets in flutter
+This project focuses purely on frontend development and does not include any backend functionality. It was created to enhance my understanding of Flutter widgets, their usage, and layout design.
 
 
 
