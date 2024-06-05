@@ -1,16 +1,30 @@
-# login
+# ✨ Login Page ✨
 
-A new Flutter project.
+This is my first project that I have developed using Flutter. This is the UI design of a login page. It takes two input fields: Email and Password.
 
-## Getting Started
+## 🚀 Technologies Used
 
-This project is a starting point for a Flutter application.
+- **Flutter**: For developing the UI of the login page
+- **Dart**: Programming language of Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **📱 Responsive Design**: The login page UI adapts based on the screen size.
+- **🎯 Interactive**: The Email and Password fields and the login button can be interacted with.
+- **✔️ Validation**: The Email and Password are validated based on the format of the fields.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+[Screenshot 2024-06-05 111518](https://github.com/Challa-Venkata-Anirudh/login_page_flutter/assets/171713063/e2fc9493-2dc3-44e5-9ddc-ec09b5ede9bd)
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/login-page.git
+
+
+
+
+ 
+
