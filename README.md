@@ -15,7 +15,7 @@ This is my first project that I have developed using Flutter. This is the UI des
 
 ## 📸 Screenshots
 
-[Screenshot 2024-06-05 111518](https://github.com/Challa-Venkata-Anirudh/login_page_flutter/assets/171713063/e2fc9493-2dc3-44e5-9ddc-ec09b5ede9bd)
+![Screenshot 2024-06-05 111518](https://github.com/Challa-Venkata-Anirudh/login_page_flutter/assets/171713063/e2fc9493-2dc3-44e5-9ddc-ec09b5ede9bd)
 
 ## 🛠️ Installation
 
